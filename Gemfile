@@ -66,4 +66,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
+
 gem "devise", "~> 4.9"
+
+gem "rename", "~> 1.0", github: "joaorsalmeida/rename", branch: "ruby-3.2-support"
